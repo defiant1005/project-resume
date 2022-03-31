@@ -1,0 +1,72 @@
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Bold-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Bold-Alphabetic'),
+        url('NotoSansSC-Bold-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Bold-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Bold-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Bold-Alphabetic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Medium-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Medium-Alphabetic'),
+        url('NotoSansSC-Medium-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Medium-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Medium-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Medium-Alphabetic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Light-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Light-Alphabetic'),
+        url('NotoSansSC-Light-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Light-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Light-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Light-Alphabetic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Black-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Black-Alphabetic'),
+        url('NotoSansSC-Black-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Black-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Black-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Black-Alphabetic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Regular-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Regular-Alphabetic'),
+        url('NotoSansSC-Regular-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Regular-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Regular-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Regular-Alphabetic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NotoSansSC-Thin-Alphabetic.eot');
+    src: local(''), local('NotoSansSC-Thin-Alphabetic'),
+        url('NotoSansSC-Thin-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansSC-Thin-Alphabetic.woff2') format('woff2'),
+        url('NotoSansSC-Thin-Alphabetic.woff') format('woff'),
+        url('NotoSansSC-Thin-Alphabetic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
