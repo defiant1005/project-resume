@@ -1,7 +1,6 @@
 <template>
   <div class="home__container">
     <div class="home__authorization">
-Home
     </div>
   </div>
 </template>
